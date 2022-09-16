@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>J1013 by Allison</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <style> body {background-color: #9CB6FF;color: #415280} </style>
+  </head>
+  <body>
+    <p> Name: Allison Norwine</p>
+    <p>Journal: J1013</p>
+    <p> Date: September 12, 2022
+    <p> I received assistance from: I did not recieve assistance<br />
+      I assisted: My brother</p>
+    <hr>
+    <h1>Questions</h1>
+    <h2>1.1: Why is one of the symbols used for exclusive disjunction?</h2>
+Because exculisvie disjunction is showing that they are not equivelent.
+    <h2>2.1: Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2^n?</h2>
+   Each input has 2 potential values (true or false). Since there are only two options you can find every combination by mutiplying 2*2*2... a n number of time where n is the number of inputs which gives us the result of 2^n.
+      <hr>
+      <h2>What challenges did I encounter?</h2>
+      I found it a bit tedious and overwhelming trying to figure out what was happening and what I was intended to learn/do.
+      <h2>How could this experience be improved?</h2>
+      By just taking it one step at a time and asking for help if needed.
+	<h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+	This process has made me think more logically.
+	
+  </body>
+  </html>

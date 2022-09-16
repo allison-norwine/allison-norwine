@@ -1,0 +1,34 @@
+<!DOCTYPE html>x
+<html lang="en">
+  <head>
+    <title>J1012 by Allison</title>
+    <style>
+      body {background-color:#005CAD; color: #002647;}
+      </style>
+  </head>
+  <body>
+    <p>Name: Allison Norwine</p>
+      <p>Journal: J1012</p>
+      <p>Date: September 6, 2022</p>
+
+      <p>I received assistance from: No one
+      I assisted: No one </p>
+      <hr style="color:black;background-color: black">
+      <h1>Questions</h1>
+<h2>1.1: Describe the general process for executing addition, regardless of base.</h2>
+Align the digits vertically, add the right-most column, if sum is greater than quanity that can be represented by a single digit-  carry over, then if more to left repeat.  
+<h2>2.1: What special factors need to be considered when executing addition with octal numbers?</h2>
+The quantity range is 0-7, if exceeds minus number by 8 then carry a 1; 8 is like your 10.
+<h2>3.1: What special factors need to be considered when executing addition with hexadecimal numbers?</h2>
+The quantity range is 0-9 and A-F/10-15, if exceeds minus number by 16 then carry a 1; 16 is like your 10. But also 10-15 is represented by letters.
+<h2>4.1: What special factors need to be considered when executing addition with binary numbers?</h2>
+The quantity range is 0-1, if exceeds minus number by 2 then carry; 2 is like your 10.
+ <hr style="color:black;background-color:black"> 
+    <h2>What challenges did I encounter?</h2>
+    Forgeting in hexadecimals that 10-15 is represented by letters.
+    <h2>How could this experience be improved?</h2>
+    By writing the following: A= 10 B= 11 C= 12 D= 13 E= 14 F= 15, I will be able to remember to write letters instead.
+    <h2> Free Reflection: How has what I've learned affected my thinking?</h2>
+    This has really made my brain think through simple addition instead of just flowing through it.  
+  </body>
+  </html>

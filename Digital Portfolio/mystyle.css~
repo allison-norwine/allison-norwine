@@ -1,0 +1,21 @@
+body {
+    background-color: #78A658;
+}
+h1 {
+    color:#265902;
+    font-size: 300%;
+    text-align: center;
+}
+h2 {
+    color: #0D2601;
+    font-size: 250%;
+}
+h3 {
+    color: #0D2601;
+    font-size: 200%;
+}
+img {
+    width: 150px;
+    height: 115px;
+    float: right;
+}

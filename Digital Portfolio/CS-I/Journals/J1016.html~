@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>J1016 by Allison</title>
+      <link href="mystyle.css" rel="stylesheet">
+  </head>
+  <body>
+    <p> Name: Allison Norwine</p>
+    <p>Journal: J1016</p>
+    <p> Date: September 12, 2022
+    <p> I received assistance from: My Brother<br />
+      I assisted: I did not need to assist anyone</p>
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKAA8KAWCMDTi4jywh+KfgDkA8gBUWYBBAUoQKBIRCFOVVeu3UELAO4UwysVU7F1OqEZFWVak2YzLILADL3rTzpse6UCAAZgCGADYAznTU7gCyGloBGq7J2tAGQA">
+  <img src="../../images/AN-NOT.png" alt="NOT Image">
+</a>
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQgBZsUQUVOFDIT4CofcQjYcQwvKMF5iI-oKq8kUgDIhuvNPM5w++cRABmAQwA2AZzrVILHXr5HdxgVSoWb9xywA7kIqYnIm8k7BCMIKsoTyXlAsALIgSqGCxJyCquIo0FIAHiCEYMTgKBWEJOA8um4gAIIAcgAiLEA">
+  <img src="../../images/AN-AND.png"alt="AND Image">
+</a>
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKAA8LCkwEAWEQpAg9y-FPwDyAJRY8I2PGPEhehJfyoooFWQnmKQ2BFtX8jWzdQS6IeMIRCYtePJowXHVlgHdDBtHiGhIEoypA+QSHKCmK8VOG+MYbYDimB5lARaYbGfmbBmb6mOc72ji6FKmqOynYOKAgO4QCyIC5uWsRgWk7aKNDWADKRNWa5oRrgIABmAIYANgDOdNThw9kZm7nxMwvLqyxAA">
+  <img src="../../images/AN-OR.png"alt="OR Image">
+</a>
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKDAQmzXA0JABY4PPlRTUEbDiC6i8eAUJRyoIMUgnsICXqpT8QhBHxR6VY2pIh5C+k-uL9bp0eJYB3A0d37rt-FHdPY1NfVUEAj0FZeW1jcMhA2NV-KOEI6W4wQipcfTAdBI9ctJlwYnNA0swxYqV5QulIW2VS4oSAGUbm+TrVZSoqADMAQwAbAGc6ag6utN78kRURiamkBIBZEAcne2zvM2gJAA8KQghiPjP7YgEwkAA5AHkAJRYgA">
+  <img src="../../images/AN-NOR.png"alt="NOR Image">
+</a>
+<a href="https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWcMBMcUHYMGZIA4UA2ATmIxAUgoqoQFMBaMMAKAA8KM9wMJDceAFhDCUwgBoB5AEoswCCNjyiEhEcTUpVUECmoI5CkEuHZsawRuPmde2oYg5Nebsu4oXt-SwCyIN7qeLlQe3CHQBgDu6praTroYdizRlmpmavG4wpAsADLGyrqCVObuxTpUAGYAhgA2AM501Dn5Jgl6pe0VIDUNTUgtBaZoxoTc2CNUEL2NzXlDxggdY4t24D11swMsQA">
+  <img src="../../images/AN-XOR.png"alt="XOR Image">
+</a>
+<hr>
+<h3> What challenges did I encounter?</h3>
+One of the challenges is that I could not link my images into my html.
+<h3>How could this experience be improved?</h3>
+This could improve by getting actual help and teachings over the matter and what we are supposed to do.
+<h3>Free Reflection: How has what I've learned affected my thinking?</h3>
+I now see that there are many different ways to complete one task, while we could of used a XOR gate we were able to create a XOR gate using only NAND gates.
+  </body>
+</html>
+

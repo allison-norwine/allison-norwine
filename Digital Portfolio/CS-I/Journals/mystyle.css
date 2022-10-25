@@ -1,4 +1,16 @@
 body {
     background-color: #9CB6FF;
-    color: #415280
+    font-size: 150%
+}
+h1{
+    font-size: 200%;
+    color: #415280;
+}
+h2{
+    font-size: 175%;
+    color:#415280;
+}
+h3{
+    font-size: 150%;
+    color: #415280;
 }
